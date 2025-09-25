@@ -55,12 +55,8 @@ Technology/Applications/Services Used:
 - Log into your router and forward **port 25565** to your computer’s internal IP.  
 - Each router has unique steps—refer to your router’s manual.  
 
- 6. Run the Server Again
-- Use the same command:  
-  ```bash
-  java -Xmx1024M -Xms1024M -jar server.jar nogui
-  ```
-- Share your public IP address with friends so they can connect.   
+ 6. Have Friends Join
+- Bsmity (Friend from Michigan) joined (I'm in North Carolina) 
 
 
 Conclusion:
